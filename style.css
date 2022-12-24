@@ -44,5 +44,11 @@ body {
     width: 0px;
   }
 }
+span svg{
+  margin-top: 12px;
+  position: absolute;
+  left: 20px;
+}
 
 /* end */
+
